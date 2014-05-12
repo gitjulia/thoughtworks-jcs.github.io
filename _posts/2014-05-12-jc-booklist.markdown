@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JC Program Booklist
+title: "JC Program Booklist"
 ---
 
 ### Fundamental Books (best during your first year)
