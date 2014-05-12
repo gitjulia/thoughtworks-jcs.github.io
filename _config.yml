@@ -1,0 +1,11 @@
+layouts:     ./_layouts
+safe:        false	
+port: 4000
+
+markdown: kramdown
+permalink: blog/:title
+author: ThoughtWorks
+
+encoding: utf-8
+
+exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude

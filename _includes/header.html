@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{site.name}} - {{page.title}}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	    {% if page.tags %}
+            <meta name="keywords" content="{{ page.tags }}">        
+        {% endif %}
+
+        <link rel="icon" type="image/png" href="{{site.url}}/favicon.png">
+
+        <link rel="stylesheet" href="{{site.url}}/css/font-awesome.min.css">
+
+        <link href='http://fonts.googleapis.com/css?family=Poly:400,400italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="{{site.url}}/css/custom.css">
+
+        <link rel="stylesheet" href="{{site.url}}/css/bootstrap.min.css">
+        <script src="{{site.url}}/js/jquery-1.10.2.js"></script>
+
+        <script src="{{site.url}}/js/bootstrap.min.js"></script>        
+    </head>
+    <body>

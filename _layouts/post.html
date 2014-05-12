@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<div class="col-sm-12">
+    <div class="posts">
+    	<div class="page-title">
+    		{{ page.title }} - 
+    			<time class="timeago" datetime="{{ page.date |  date: "%d %B %Y" }}">{{ page.date |  date: "%B %d %Y" }}</time>
+    	</div>
+        <div class="post">
+            {{ content }}
+        </div>
+    </div>
+</div>
