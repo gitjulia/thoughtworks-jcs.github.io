@@ -3,12 +3,12 @@ layout: post
 title: JC Program Booklist
 ---
 
-# Fundamental Books (best during your first year)
+### Fundamental Books (best during your first year)
 
-## Career
+#### Career
 * New Programmer’s Survival Manual
 
-## Pillar 3
+#### Pillar 3
 * The New Jim Crow
 * The Great War for Civilisation: The Conquest of the Middle East by Robert Fisk
 * Cypherpunks by: Julian Assange , Jacob Appelbaum , Andy Müller-Maguhn , Jérémie Zimmermann
@@ -25,7 +25,7 @@ title: JC Program Booklist
 * John Brown by Bois, WEB Du
 * Confessions of an Economic Hit Man, John Perkins
 
-## Software Development
+#### Software Development
 * Head First Design Patterns
 * Clean Code
 * The Clean Coder
@@ -51,11 +51,11 @@ title: JC Program Booklist
 * Continuous Delivery
 * Agile Estimating and Planning
 
-## Communication
+#### Communication
 * Crucial Conversations
 * How to Win Friends and Influence People
 
-## Mental Models
+#### Mental Models
 * Pragmatic Thinking & Learning
 * Seeing Systems
 * Fifth Discipline

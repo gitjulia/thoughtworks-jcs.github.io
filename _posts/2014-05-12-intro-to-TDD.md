@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Intro to TDD"
 ---
 
-[TDD](https://github.com/BillSchofield/TDDIntro/blob/master/README.md)
+[Click here to go to the TDD guide](https://github.com/BillSchofield/TDDIntro/blob/master/README.md)

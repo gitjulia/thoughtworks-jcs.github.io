@@ -1,0 +1,12 @@
+<nav id="nav" role="navigation" class="col-sm-2 sidebar-offcanvas">
+	<ul class="sidebar">
+    	<p class="separator">Navigation:</p>
+      	
+        <li class="link"><a href="/">Home</a></li>
+            
+        {% for post in site.posts %}
+        <li class="link"><a href="{{ post.url }}"><span class="uppercase">{{post.title}}</span></a></li>
+        {% endfor %}
+        
+    </ul>
+</nav>
